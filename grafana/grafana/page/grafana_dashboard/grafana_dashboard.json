@@ -1,0 +1,19 @@
+{
+ "content": null,
+ "creation": "2023-11-28 10:58:21.298706",
+ "docstatus": 0,
+ "doctype": "Page",
+ "idx": 0,
+ "modified": "2023-11-28 11:45:36.267233",
+ "modified_by": "Administrator",
+ "module": "Grafana",
+ "name": "grafana_dashboard",
+ "owner": "Administrator",
+ "page_name": "Grafana_Dashboard",
+ "roles": [],
+ "script": null,
+ "standard": "Yes",
+ "style": null,
+ "system_page": 0,
+ "title": "Grafana Dashboard"
+}

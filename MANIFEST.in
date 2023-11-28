@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include grafana *.css
+recursive-include grafana *.csv
+recursive-include grafana *.html
+recursive-include grafana *.ico
+recursive-include grafana *.js
+recursive-include grafana *.json
+recursive-include grafana *.md
+recursive-include grafana *.png
+recursive-include grafana *.py
+recursive-include grafana *.svg
+recursive-include grafana *.txt
+recursive-exclude grafana *.pyc
